@@ -1,0 +1,18 @@
+@media only screen and (max-width: 991px) {
+    div.feature-content {
+      display: inline-block;
+    }
+    div.feature-contentTwo {
+        display: inline-block;
+    }
+    button.btn.btn-secondary.btn-sm {
+        margin-bottom: 30px; 
+    }
+    div.feature-contentThree {
+        display: inline-block;
+    }
+    div.col {
+        margin-bottom: 20px;
+    }
+  }
+
